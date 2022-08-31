@@ -7,7 +7,7 @@ import { CommonModule } from "@angular/common";
 import { IndexnavbarComponent } from './index/indexnavbar/indexnavbar.component';
 import { MainComponent } from './index/main/main.component';
 import { FormsModule } from '@angular/forms';
-// toster
+
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { ToastrModule } from 'ngx-toastr';
 import { NotfoundComponent } from './error/notfound/notfound.component';
@@ -47,7 +47,7 @@ import { VieworderhistoryComponent } from './admin/vieworderhistory/vieworderhis
 import { FeedbackComponent } from './user/feedback/feedback.component';
 import { QrcodeComponent } from './admin/qrcode/qrcode.component';
 import { LoadingComponent } from './loading/loading/loading.component';
-// ***
+
 
 @NgModule({
   declarations: [

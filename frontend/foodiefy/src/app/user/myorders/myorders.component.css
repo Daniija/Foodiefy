@@ -49,7 +49,7 @@ img{
 }
 
 #delete:hover{
-  color: tomato;
+  color: #3349FF;
   transform: scale(1.3);
 }
 
@@ -58,7 +58,7 @@ img{
   color: green;
 }
 .unpaid{
-  color: tomato;
+  color: #3349FF;
 }
 
 .picked {

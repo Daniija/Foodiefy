@@ -27,12 +27,12 @@
               </td>
               <td>{{item.foodname}}</td>
               <td>
-                <div *ngIf="item.foodavail; else myelseBlock" style="color: green;">
+                <div *ngIf="item.foodavail; else myelseBlock" style="color: #3349FF;">
                   Available
                 </div>
 
                 <ng-template #myelseBlock>
-                  <div style="color: tomato;">
+                  <div style="color: #3349FF;">
                     Not Available
                   </div>
                 </ng-template>
@@ -43,7 +43,7 @@
                 <i class="fa fa-plus" id="plus" *ngIf="!item.unlimited; else elseBlock" (click)="addfooditem(item)"
                   aria-hidden="true"></i>
                 <ng-template #elseBlock>
-                  unlimited
+                  In Stock
                 </ng-template>
               </td>
               <td><i class="fa fa-edit" id="edit" (click)="editfood(item)" aria-hidden="true"></i></td>

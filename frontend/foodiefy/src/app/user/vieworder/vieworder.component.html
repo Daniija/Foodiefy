@@ -26,11 +26,11 @@
               </td>
               <td>{{item.foodname}}</td>
               <td>
-                <!-- <i class="fa fa-minus" aria-hidden="true"></i> -->
+
                 <span>{{item.foodqty}}</span>
-                <!-- <i class="fa fa-plus" aria-hidden="true"></i> -->
+
               </td>
-              <td>{{item.foodprice}} ₹</td>
+              <td>{{item.foodprice | currency}}</td>
 
             </tr>
           </tbody>

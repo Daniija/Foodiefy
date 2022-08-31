@@ -89,7 +89,6 @@ exports.editFood = (req, res) => {
             quantity = req.body.foodqty
         }
         if (req.body.foodqty == -1) {
-            // avail = true;
 
             quantity= -1;
             if (req.body.isitavail == "yes") {
@@ -408,31 +407,6 @@ exports.updatePaymentstatus = (req, res) => {
         }
     })
 }
-
-
-// exports.getQrcode = (req, res) => {
-//     var id = req.params.id
-//     Order.findOne({ _id: id }, (err, order) => {
-//         if (err) {
-//             console.log("error while generating qr code of order by admin");
-//             return res.json({ errormsg: 'Somthing went wrong' });
-//         }
-//         if (order.status == "completed" || order.status == "picked up") {
-//             QRCode.toDataURL(id).then(url => {
-//                 res.json({ msg: url });
-//             }).catch(err => {
-//                 console.log("error while generating qr code of order by admin");
-//                 return res.json({ errormsg: 'error while generating qr code' });
-//             })
-//         }
-//         else {
-//             console.log("order status must be completed or pickup for getting QR code");
-//             return res.json({ errormsg: 'error while generating qr code' });
-//         }
-//     })
-// }
-
-
 
 exports.getallFeedback = (req, res) => {
     Feedback.find({}, (err, feedbacks) => {

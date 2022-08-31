@@ -79,7 +79,7 @@ h2{
 .bg-dark {
 
   /* background: #1a1a1a; */
-  background-image: url('https://storage.googleapis.com/canteen-assets/index/bgy.png');
+  background-image: url('https://storage.googleapis.com/foodify-assets/bg2.jpg');
     background-size: cover;
     /* min-height: 100vh; */
     background-position: center;
@@ -182,7 +182,7 @@ input {
   text-align: left;
   margin-bottom: 24px;
   color:#2f2e41;
-  text-shadow:#F8C44C 2px 2px 2px;
+  text-shadow:#185ac1 2px 2px 2px;
   /* text-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.15); */
 }
 
