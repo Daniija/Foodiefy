@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "blissful-jet-361017",
+  "private_key_id": "97c93506492d0eda1c91fcf216013ffd4ec7d1af",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCTWg2Ec8/P5EHH\nkEwD3cSzkahntSwZ1kqxiOT1+/oHROkmVVAex4W+SogZdybsUQPb9pgzHdS8CHxk\nX3LKeTAFN4FcHv44HSVM+whbZymUEQ1Ut6/PmRDJQ3SbiuazBwAa40h7EhwqvFac\nqb2ppw4odOs+18lawcHfFVFFE6LL546Br9RDTR3H22kmjgmCsfICQ0Kzo6voP5Sl\nxFY4678VeWBEgG1269I8qcgv6V0aqHgJflIcWei19FpOOfb2+fRQR59XKcPKb9SD\n4jIugo8Ur8syCkSaSN062iieAHkyOTobvGU+Y2t4/T0SkXp7jBHYw9pWboo9BjTM\nzxEKv+a7AgMBAAECggEARxSDvMcZEhHr4VasNJlAD9dNw2lT8sq6kVWWDUsV23fU\neFdjJNXeoGLXsGEX95tFH1CfLtlPC72UM98PQrie/4U887FHtM3qdm4KI/1pwzFO\nmvVY6+3MeSn/ECE7FFVmKZJGHogn6j2cEkqXYUViwQVVjaUOTqd03CYuZAIK4A0B\nxGt6pTJeDhO2kLivmxz3dyyW+nnMeEyAq20Vwknv0j1AxTXemCAHN3e0UzXU1028\ngbk4ChO3X3L49lMVqWCi+5VhX36rQrus2f87AIvxnN5OKZq/l3acAwLnWGCArSFK\n5O9GdQhjaEQGUCUTk+QTnYpZXkRMLwagj9zW9QVv8QKBgQDMSuO+SJcXhxNZW87l\nE2EizcagYCFEDpvn9wRVb1myOuHGPoonQXcy13eQNkwbI1hUQ7fGmKODXmd1GlBK\nfxrYnehFG3Z7iYDCMAFBLlqLKiBo1QjC8N+TWLZYgCZq+Ec/Q5c8yK2J9j+Wi9qo\nodyvabsJiAvbFHWpE51eTzb9rQKBgQC4pbFjJQ2+megK1SqUZRuipoSVs47Jlp12\nwK4lbSVlCUIt3fAna+Y44f142KOniL4fumR3wwnOcL9fd5vnWc9+MfTgX0wgvefm\ngXOlpTpY3tn85m6rca5ycInKz3OHyqrNEwvZgURhWf92t1ZpOHJpuYiKg2t9p5xS\nul1zjjuzBwKBgFtjIO/tPxG6ThCKPkpBWhGcpb72Ycs1Ec85tAmX7zMInhj1vw2C\nfpUSyByN/YuiSxAe3uYLQBIzN+qto78/jr3aHZ5Ug7MNtrinitgiqURZyve6XNn/\nsLQUWjXK1eTCPfTyAoShbOgrbRSmaWFITxV1IcNIxazyQRQqfxpCK2JdAoGBAJgD\nQRCAdtpN1qzkZZOZ0bCMKmccVhc8OhKD+lqxirGtd6BPMOEjgXufAZA1ujW4690v\nFHtMRIyCYer0i5NhauNXuWPm0MO71Gj+dfkPGAQGI6yDAOWAR7/LSoV/WHuYrBj8\n7yp3s5X6A8j2kts5L2g+6FwwaZQfIyEwcLMri5aNAoGBALtf9r6AN8gGvU/lX8yE\ny9X+gurqz1+8PjRnWa3c+ROA9dU8RPMEmEhHCjYeRvw9/Qt6tL3xdn4qCLpLgTjR\nh2V/z6U9W4I4gq0fYwvVy2mWFY9Qgn8ii/lGR6t1qmYmK6E1pUVFAW6hR42T2yT5\n3ShfMjDfwB7DcJ7LfZoRJD5K\n-----END PRIVATE KEY-----\n",
+  "client_email": "foodiefy@blissful-jet-361017.iam.gserviceaccount.com",
+  "client_id": "104954441425124308256",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/foodiefy%40blissful-jet-361017.iam.gserviceaccount.com"
+}
